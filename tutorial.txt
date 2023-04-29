@@ -1,0 +1,10 @@
+Open Config for all this.
+
+1. Insert Roblox Cookie where prompted in the Roblox Cookie session.
+2. Webhook area asks for you to make a discord webhook. If you wanna learn how to make a webhook, search up a guide on youtube or google.
+3. Make a discord bot and put the bot token where it asks for token. (Check youtube for more info on making a bot)
+4. You can use proxies, but you don't need to. If you wanna use them however, make sure to paste them in the proxies.txt and set the config to true.
+5. Paste limited ID's in between the " " in the limiteds section.
+6. Save the config.
+
+Thats pretty much it.   
